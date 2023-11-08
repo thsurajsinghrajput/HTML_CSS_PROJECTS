@@ -31,9 +31,34 @@ body{
     
 }
 #profile{
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     border-radius: 50%;
     border: 5px solid blue;
-   margin:15% 35%;
+   margin:10%  30% 0 ;
+}
+#profile_name{
+    display: block;
+    text-align: center;
+    line-height: 150%;
+    font-size: 1.5em;
+
+    
+}
+#info{
+    display: block;
+    text-align: center;
+     
+}
+.social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.social img{
+    margin-left: 15px; 
+    margin-top: 10px; 
+     height: 30px;
 }
