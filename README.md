@@ -8,12 +8,12 @@ This repository contains a collection of HTML and CSS projects that I've develop
 
 ### Project 1: Amazon Landing Page Clone
 Description: This project is a clone of the landing page of Amazon, the popular e-commerce platform. It replicates the layout and design elements of the Amazon homepage.
-Demo: [Live Demo](https://thsurajsinghrajput.github.io/HTML_CSS_PROJECTS/UI_CARD/) (Demo link will be added once available)
+Demo: [Live Demo](https://thsurajsinghrajput.github.io/HTML_CSS_PROJECTS/Amzon_LandingPage_Clone/) (Demo link will be added once available)
 Code: [Project 1 Source Code](https://github.com/thsurajsinghrajput/HTML_CSS_PROJECTS/tree/main/Amzon_LandingPage_Clone)
 
 ### Project 2: UI Cart Design
 Description: This project demonstrates a UI design for a shopping cart interface. It includes visually appealing components and animations to enhance the user experience.
-Demo: [Live Demo](https://thsurajsinghrajput.github.io/HTML_CSS_PROJECTS/Amzon_LandingPage_Clone/) (Demo link will be added once available)
+Demo: [Live Demo](https://thsurajsinghrajput.github.io/HTML_CSS_PROJECTS/UI_CARD) (Demo link will be added once available)
 Code: [Project 2 Source Code](https://github.com/thsurajsinghrajput/HTML_CSS_PROJECTS/tree/main/UI_CARD)
 
 ## How to Run
